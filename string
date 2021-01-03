@@ -1,0 +1,10 @@
+public class main{
+public static void main(string[] args){
+string s1= "hii";
+string s2= "diksha";
+string s3 = "tiwari";
+system.out.println(s1);
+system.out.println(s2);
+system.out.println(s3);
+}
+}
